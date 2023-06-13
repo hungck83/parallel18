@@ -18,6 +18,10 @@ Crack for Parallels Desktop **18.1.1 53328**
 1. Install Parallels Desktop.
 
     https://download.parallels.com/desktop/v18/18.1.1-53328/ParallelsDesktop-18.1.1-53328.dmg
+    
+    or (MAC OS), MD5 (ParallelsDesktop-18.1.1-53328.dmg) = 4ffe5b637216cfc8956ef5cc3f5dad81
+    cat ParallelsDesktop-18.1.1-53328.dmg.z* > ParallelsDesktop.zip
+    unzip ParallelsDesktop.zip 
 
 2. Exit parallels account.
 
